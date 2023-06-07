@@ -1,7 +1,7 @@
 {
     "name": "typedex",
     "version": "0.0.0",
-    "description": "Type serialization and model mapping for TypeScript.",
+    "description": "Serialization and model mapping for TypeScript.",
     "author": "Nate Buckareff",
     "license": "MIT",
     "repository": {
